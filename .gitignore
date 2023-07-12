@@ -6,7 +6,7 @@
 
 # MadCap file patterns
 /Output
-#/.gitignore
+#.gitignore
 /Analyzer
 /FileSync
 /Project/Users
